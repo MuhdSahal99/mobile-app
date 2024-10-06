@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011805635688",
+    "project_id": "umrahtrip-4d222",
+    "storage_bucket": "umrahtrip-4d222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011805635688:android:95e8cbec991d90c6a7e7dd",
+        "android_client_info": {
+          "package_name": "com.example.umratripmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6dCCW_5RxgTHmlbGC8RDSNGgYcOJi8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
